@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/depnews/static/css/main.4938e409.chunk.css",
+    "main.js": "/depnews/static/js/main.88532a4a.chunk.js",
+    "main.js.map": "/depnews/static/js/main.88532a4a.chunk.js.map",
+    "runtime-main.js": "/depnews/static/js/runtime-main.a93c8f15.js",
+    "runtime-main.js.map": "/depnews/static/js/runtime-main.a93c8f15.js.map",
+    "static/css/2.f2512455.chunk.css": "/depnews/static/css/2.f2512455.chunk.css",
+    "static/js/2.071d1036.chunk.js": "/depnews/static/js/2.071d1036.chunk.js",
+    "static/js/2.071d1036.chunk.js.map": "/depnews/static/js/2.071d1036.chunk.js.map",
+    "index.html": "/depnews/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/depnews/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.4938e409.chunk.css.map": "/depnews/static/css/main.4938e409.chunk.css.map",
+    "static/js/2.071d1036.chunk.js.LICENSE.txt": "/depnews/static/js/2.071d1036.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a93c8f15.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.071d1036.chunk.js",
+    "static/css/main.4938e409.chunk.css",
+    "static/js/main.88532a4a.chunk.js"
+  ]
+}
